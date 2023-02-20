@@ -1,0 +1,63 @@
+DONE 1. Sign up/Login page 
+    -Employer (Posting Jobs) Sign Up/Login page
+    -user(Looking For Job) sign-up/login page 
+
+2. User Profile Page
+    -includes resume file
+    -skills section (predetermined categories)
+    -saved/liked jobs 
+    -email
+    -phone number 
+    -address
+    -bio
+    -education
+        -high school graduated from (name)/ or graduated
+        -highest form of education (dimpola/bachelors/masters/...etc)
+        -Year attended
+    -experience
+        -includes company name
+        -includes job title
+        -includes job position description/responcebilities
+        -includes date started
+        -includes date ended/or if still working there
+        -includes contact for company  
+    
+3. Employer admin Profile
+    -includes Company bio
+    -positions open
+        -includes job title
+        -includes qualifacations required (array of skills/qualifications from skill table)
+        -includes city/state/remote job position is located in
+        -pay
+        -full-time or part-time
+        -shift and schedule
+        -benifits 
+        -job description
+            -company overview/description
+            -position overview/description
+        -date when posted    
+        - users who have applied 
+
+
+4. Home Page 
+    -includes Navbar 
+        -links to Profile page, messages, notifacations
+        -link to Employer/Post a job page 
+
+    - includes a search query tha searchs job listings with keyword inputs
+    -lists all job listings in a Card pertaining too users skills/qualifacations
+
+
+5. Job listing Card 
+    -shows job listing information gave from Employer
+    - Apply button that links to Apply page
+
+6. Messages / Chat Box page/component
+    - able to send/recieve messages to and from employer 
+    - able to delete messages 
+    - when ever message is recieved a notifacation count increases
+
+7. Succesfully applied for job page with confirmation number 
+
+8. Recentfly searched 
+    -saved query keywords recenty inputed from user in search bar
